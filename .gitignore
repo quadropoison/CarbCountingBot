@@ -1,0 +1,41 @@
+### PyCharm ###
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/
+
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+configurations/client_secret-orig.json
+configurations/config-orig.ini
+configurations/client_secret.json
+configurations/config.ini
+configurations/config-real.ini
+
+# Mongo Explorer plugin:
+.idea/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# *.iml
+# modules.xml
+
+__pycache__
+/configurations/client_secret.json
+/configurations/config.ini
+/venv/
